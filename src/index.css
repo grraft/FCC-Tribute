@@ -3,3 +3,42 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+img {
+  width: 100%;
+}
+
+.details {
+  padding: 20px 50px;
+}
+
+.giants-container {
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.giant-container {
+  padding-top: 10px;  
+}
+
+.giant {
+  padding: 30px 0px;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+.lead-heading {
+  font-size: 4em;
+  margin: 6% 0;
+}
+
+.subheading {
+ opacity: 0.4;
+  margin-top: -4%;
+  font-weight: 200;
+}
+
+.page {
+  margin-bottom: 80px;
+}
